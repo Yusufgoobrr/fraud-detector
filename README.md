@@ -1,4 +1,4 @@
-# customer-onboarding-platform
+# fraud-detector
 
 > A hands-on Spring Boot microservices reference built with service discovery, an API gateway, async messaging, and distributed tracing.
 
