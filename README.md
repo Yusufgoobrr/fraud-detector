@@ -1,4 +1,4 @@
-# spring-microservices
+# customer-onboarding-platform
 
 > A hands-on Spring Boot microservices reference built with service discovery, an API gateway, async messaging, and distributed tracing.
 
